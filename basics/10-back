@@ -1,2 +1,2 @@
 #!/bin/bash
-cd /old/pwd/var
+cd ($oldpwd)
