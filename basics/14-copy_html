@@ -1,2 +1,2 @@
 #!/bin/bash
-cp $html_file ../file_name
+ cp "$html_file" "../$file_name"
