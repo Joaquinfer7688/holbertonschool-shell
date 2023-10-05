@@ -1,2 +1,2 @@
 #!/bin/bash
-head 3 /iadata 
+head -n 3 iadata | tail -n 1 
