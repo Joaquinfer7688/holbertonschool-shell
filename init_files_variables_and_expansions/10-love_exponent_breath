@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(bc <<< "scale=10; $BREATH ^ $LOVE")
+echo $BREATH ^ $LOVE
